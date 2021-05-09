@@ -1,0 +1,19 @@
+.main{
+    list-style: none;
+}
+.item{
+    display: flex;
+    align-items: center;
+}
+.img{
+    width: 150px;
+    padding: 10px;
+}
+.cast{
+    font-size: 16px;
+    padding: 0 5px;
+}
+.title{
+    font-size: large;
+    color: darkblue;
+}

@@ -1,0 +1,19 @@
+.nav {
+    padding: 20px;
+    text-transform: uppercase;
+    background-color: rgb(10, 10, 80);
+    margin: 0;
+}
+
+.NavLink {
+    display: inline-block;
+    padding: 20px;
+
+    font-weight: 500;
+    color: #229186;
+}
+
+.NavLinkActive {
+    color: rgb(187, 53, 53);
+    text-shadow: cadetblue;
+}

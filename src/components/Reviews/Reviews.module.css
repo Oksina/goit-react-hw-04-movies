@@ -1,0 +1,17 @@
+.main{
+    list-style: none;
+}
+.review{
+    font-size: 16px;
+    padding: 0 5px;
+    margin-top: 10px;
+}
+.title{
+    font-size: 16px;
+    color: rgb(43, 11, 11);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.content{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+}
