@@ -1,19 +1,19 @@
-.main{
+.main {
     list-style: none;
 }
-.item{
+.item {
     display: flex;
     align-items: center;
 }
-.img{
+.img {
     width: 150px;
     padding: 10px;
 }
-.cast{
+.cast {
     font-size: 16px;
     padding: 0 5px;
 }
-.title{
+.title {
     font-size: large;
     color: darkblue;
 }
